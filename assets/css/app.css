@@ -1,1 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=Inter:wght@400;500;600&display=swap');
 @import "tailwindcss";
+
+:root {
+  --bp-bg: #0e1f33;
+  --bp-bg-card: #142a44;
+  --bp-line: #2a4d6d;
+  --bp-accent: #e8a33d;
+  --bp-teal: #4fd1c5;
+  --bp-text: #eaf2fa;
+  --bp-text-dim: #9db4cc;
+}
+
+body {
+  background-color: #0e1f33;
+  background-image:
+    linear-gradient(rgba(79,209,197,0.05) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(79,209,197,0.05) 1px, transparent 1px);
+  background-size: 32px 32px;
+  font-family: 'Inter', sans-serif;
+}
+
+.font-mono-tech {
+  font-family: 'JetBrains Mono', monospace;
+}
+
+.corner-mark {
+  position: relative;
+}
+.corner-mark::before, .corner-mark::after {
+  content: '';
+  position: absolute;
+  width: 14px;
+  height: 14px;
+  border-color: #4fd1c5;
+  opacity: 0.7;
+}
+.corner-mark::before {
+  top: -1px;
+  left: -1px;
+  border-top: 2px solid;
+  border-left: 2px solid;
+}
+.corner-mark::after {
+  bottom: -1px;
+  right: -1px;
+  border-bottom: 2px solid;
+  border-right: 2px solid;
+}
+
+.eyebrow {
+  font-family: 'JetBrains Mono', monospace;
+  letter-spacing: 0.15em;
+  color: #4fd1c5;
+  font-size: 0.75rem;
+}
+
+.pill-tech {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.75rem;
+  border: 1px solid #2a4d6d;
+  color: #9db4cc;
+  transition: border-color 0.2s, color 0.2s;
+}
+.pill-tech:hover {
+  border-color: #e8a33d;
+  color: #e8a33d;
+}
