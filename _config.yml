@@ -1,0 +1,10 @@
+url: ""
+baseurl: ""
+title: "Nelio Sotomayor"
+
+plugins:
+ - jekyll-tailwind
+
+tailwind:
+ input: assets/css/app.css
+ minify: true
