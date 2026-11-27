@@ -9,10 +9,10 @@ title: Inicio
 <img src="{{ '/assets/img/profile.jpg' | relative_url }}" alt="Nelio Sotomayor" class="w-40 h-40 md:w-48 md:h-48 object-cover rounded-full ring-2 ring-[#4fd1c5] ring-offset-4 ring-offset-[#0e1f33]">
 </div>
 <div>
-<p class="eyebrow mb-3">// PERFIL TECNICO</p>
+<p class="eyebrow mb-3">// PERFIL PROFESIONAL</p>
 <h1 class="text-4xl md:text-5xl font-bold text-[#eaf2fa] mb-3">Nelio Sotomayor</h1>
-<p class="text-lg text-[#e8a33d] font-mono-tech mb-6">Arquitectura de Software · Gestion de Proyectos TI · Sector Publico</p>
-<p class="text-[#9db4cc] max-w-xl leading-relaxed mb-8">Ingeniero de Sistemas (CIP N. 344629) con mas de 20 anos de experiencia en TI, especializado en supervision de arquitectura y desarrollo de software, e implementacion de sistemas para el sector publico peruano bajo metodologia Scrum. Fundador de CSSN S.A.C.S., consultora de soluciones TI en Lima, Peru.</p>
+<p class="text-lg text-[#e8a33d] font-mono-tech mb-6">Gestión de Proyectos TI · Supervisión de arquitectura y desarrollo de software · Implementación de ERP</p>
+<p class="text-[#9db4cc] max-w-xl leading-relaxed mb-8">Ingeniero de Sistemas colegiado (CIP N.° 344629) con más de 20 años en TI, enfocado en la gestión de proyectos tecnológicos. Mi trayectoria combina dirección de áreas de sistemas, supervisión técnica y consultoría en los sectores privado y público, en Perú y en Estados Unidos. Fundador de CSSN S.A.C.S., consultora de soluciones TI en Lima.</p>
 <a href="https://www.linkedin.com/in/nelio-sotomayor" class="inline-flex items-center gap-2 bg-[#e8a33d] text-[#0e1f33] font-semibold px-6 py-3 font-mono-tech text-sm hover:bg-[#4fd1c5] transition-colors">
 CONECTAR EN LINKEDIN
 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17L17 7M17 7H7M17 7V17"/></svg>
@@ -23,14 +23,14 @@ CONECTAR EN LINKEDIN
 <div class="grid grid-cols-3 gap-4 mt-16 border-t border-[#2a4d6d] pt-8">
 <div>
 <p class="text-3xl font-bold text-[#eaf2fa] font-mono-tech">20+</p>
-<p class="eyebrow mt-1">ANOS EXPERIENCIA</p>
+<p class="eyebrow mt-1">AÑOS EN TI</p>
 </div>
 <div>
-<p class="text-3xl font-bold text-[#eaf2fa] font-mono-tech">6</p>
-<p class="eyebrow mt-1">ENTIDADES / PROYECTOS</p>
+<p class="text-3xl font-bold text-[#eaf2fa] font-mono-tech">9.57</p>
+<p class="eyebrow mt-1">PROMEDIO MAESTRÍA</p>
 </div>
 <div>
-<p class="text-3xl font-bold text-[#eaf2fa] font-mono-tech">12</p>
+<p class="text-3xl font-bold text-[#eaf2fa] font-mono-tech">16</p>
 <p class="eyebrow mt-1">CERTIFICACIONES</p>
 </div>
 </div>
@@ -46,9 +46,20 @@ CONECTAR EN LINKEDIN
 <div class="flex items-start gap-4">
 <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#4fd1c5" stroke-width="1.5" class="mt-1 shrink-0"><rect x="2" y="7" width="20" height="14" rx="2"/><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"/></svg>
 <div>
-<h3 class="text-lg font-semibold text-[#eaf2fa]">Fundador y Consultor Senior de Soluciones TI</h3>
-<p class="font-mono-tech text-xs text-[#e8a33d] mb-2">CSSN S.A.C.S. · AGO 2023 - ACTUALIDAD</p>
-<p class="text-[#9db4cc] text-sm leading-relaxed">Consultoria especializada en infraestructura, redes, software y seguridad para clientes corporativos y entidades publicas.</p>
+<h3 class="text-lg font-semibold text-[#eaf2fa]">Gerente de Proyectos TI</h3>
+<p class="font-mono-tech text-xs text-[#e8a33d] mb-2">CSSN S.A.C.S. (Cyber Solution Security Network) · AGO 2023 - ACTUALIDAD</p>
+<p class="text-[#9db4cc] text-sm leading-relaxed">Socio fundador de CSSN, firma de consultoría en soluciones de TI. Lidero la planificación, el control de presupuesto y la gestión de riesgos de los proyectos de la firma; como jefe de proyecto, lideré la migración de bases de datos de SQL Server 2008 a SQL Server 2022 para dos clientes.</p>
+</div>
+</div>
+</div>
+
+<div class="corner-mark bg-[#142a44] p-6">
+<div class="flex items-start gap-4">
+<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#4fd1c5" stroke-width="1.5" class="mt-1 shrink-0"><rect x="2" y="7" width="20" height="14" rx="2"/><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"/></svg>
+<div>
+<h3 class="text-lg font-semibold text-[#eaf2fa]">Analista Senior</h3>
+<p class="font-mono-tech text-xs text-[#e8a33d] mb-2">OSIS SAC · DIC 2025 - MAR 2026 · JORNADA PARCIAL</p>
+<p class="text-[#9db4cc] text-sm leading-relaxed">Proyecto de análisis y mejora de procesos para Inversiones Pecuarias Lurín (INPELSA), orientado a la implementación de OSIS ERP: levantamiento y validación de procesos AS-IS y diseño del modelo operativo TO-BE.</p>
 </div>
 </div>
 </div>
@@ -58,8 +69,8 @@ CONECTAR EN LINKEDIN
 <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#4fd1c5" stroke-width="1.5" class="mt-1 shrink-0"><rect x="2" y="7" width="20" height="14" rx="2"/><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"/></svg>
 <div>
 <h3 class="text-lg font-semibold text-[#eaf2fa]">Supervisor de Arquitectura y Desarrollo de Software</h3>
-<p class="font-mono-tech text-xs text-[#e8a33d] mb-2">Proyecto SECOSAN (SUNASS) via HELVETAS · MAR 2025 - FEB 2026</p>
-<p class="text-[#9db4cc] text-sm leading-relaxed">Supervision tecnica de 10 sprints, 5 entregables con conformidad ante SUNASS. Revision de arquitectura multitenant, servicios REST y autenticacion Keycloak bajo estandares Scrum.</p>
+<p class="font-mono-tech text-xs text-[#e8a33d] mb-2">Programa SECOSAN (SUNASS) · HELVETAS Swiss Intercooperation · MAR 2025 - MAR 2026</p>
+<p class="text-[#9db4cc] text-sm leading-relaxed">Supervisión técnica de la arquitectura y el diseño del Sistema de Reclamos y Quejas de SUNASS, verificando el cumplimiento de los TDR. Evaluación de 10 sprints y 5 entregables bajo Scrum; revisión de la arquitectura multitenant para 48 EPS, servicios API REST y autenticación con Keycloak.</p>
 </div>
 </div>
 </div>
@@ -68,9 +79,9 @@ CONECTAR EN LINKEDIN
 <div class="flex items-start gap-4">
 <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#4fd1c5" stroke-width="1.5" class="mt-1 shrink-0"><rect x="2" y="7" width="20" height="14" rx="2"/><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"/></svg>
 <div>
-<h3 class="text-lg font-semibold text-[#eaf2fa]">Especialista en Liquidacion de Proyectos de Inversion</h3>
+<h3 class="text-lg font-semibold text-[#eaf2fa]">Especialista en Liquidación de Proyectos</h3>
 <p class="font-mono-tech text-xs text-[#e8a33d] mb-2">INDECI · NOV 2025 - DIC 2025</p>
-<p class="text-[#9db4cc] text-sm leading-relaxed">Informes tecnicos de liquidacion de proyectos de inversion e informe de liquidacion financiera de oficio.</p>
+<p class="text-[#9db4cc] text-sm leading-relaxed">Análisis de las liquidaciones de inversiones de las Direcciones Desconcentradas del INDECI, informes técnicos 2022-2024 e informe de liquidación financiera de oficio.</p>
 </div>
 </div>
 </div>
@@ -79,9 +90,9 @@ CONECTAR EN LINKEDIN
 <div class="flex items-start gap-4">
 <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#4fd1c5" stroke-width="1.5" class="mt-1 shrink-0"><rect x="2" y="7" width="20" height="14" rx="2"/><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"/></svg>
 <div>
-<h3 class="text-lg font-semibold text-[#eaf2fa]">Especialista en Depuracion y Consistencia de Base de Datos</h3>
-<p class="font-mono-tech text-xs text-[#e8a33d] mb-2">Municipalidad Distrital de Ate · SET 2025 - NOV 2025</p>
-<p class="text-[#9db4cc] text-sm leading-relaxed">Depuracion de la base tributaria de contribuyentes y saneamiento de registros prediales.</p>
+<h3 class="text-lg font-semibold text-[#eaf2fa]">Especialista en Depuración y Consistencia de Base de Datos</h3>
+<p class="font-mono-tech text-xs text-[#e8a33d] mb-2">Municipalidad Distrital de Ate · SET 2025 - DIC 2025</p>
+<p class="text-[#9db4cc] text-sm leading-relaxed">Depuración, normalización y consistencia de la base de datos tributaria de contribuyentes con SQL Server y PostgreSQL para la Subgerencia de Registro, Recaudación y Control.</p>
 </div>
 </div>
 </div>
@@ -90,9 +101,9 @@ CONECTAR EN LINKEDIN
 <div class="flex items-start gap-4">
 <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#4fd1c5" stroke-width="1.5" class="mt-1 shrink-0"><rect x="2" y="7" width="20" height="14" rx="2"/><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"/></svg>
 <div>
-<h3 class="text-lg font-semibold text-[#eaf2fa]">Especialista TI / Coordinador de Desarrollo - Gobierno Digital</h3>
-<p class="font-mono-tech text-xs text-[#e8a33d] mb-2">Municipalidad Distrital de La Victoria · ENE 2023 - MAR 2024</p>
-<p class="text-[#9db4cc] text-sm leading-relaxed">Implementacion de CI/CD con Jenkins y Bitbucket Pipelines para sistemas SIGMUN y SIGA; digitalizacion de procesos municipales.</p>
+<h3 class="text-lg font-semibold text-[#eaf2fa]">Analista de Gestión de Desarrollo para la Plataforma SINPAD</h3>
+<p class="font-mono-tech text-xs text-[#e8a33d] mb-2">INDECI · JUN 2025 - AGO 2025</p>
+<p class="text-[#9db4cc] text-sm leading-relaxed">Análisis de los flujos del Módulo de Gestión de la Información del SINPAD y de la Bitácora de eventos; gestión de la corrección de errores críticos en coordinación con equipos técnicos y usuarios.</p>
 </div>
 </div>
 </div>
@@ -101,9 +112,86 @@ CONECTAR EN LINKEDIN
 <div class="flex items-start gap-4">
 <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#4fd1c5" stroke-width="1.5" class="mt-1 shrink-0"><rect x="2" y="7" width="20" height="14" rx="2"/><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"/></svg>
 <div>
-<h3 class="text-lg font-semibold text-[#eaf2fa]">Gerente de TI</h3>
-<p class="font-mono-tech text-xs text-[#e8a33d] mb-2">VISONS SAC · SET 2015 - DIC 2021</p>
-<p class="text-[#9db4cc] text-sm leading-relaxed">Direccion de infraestructura TI, implementacion de ERP corporativo y sistemas de control operativo remoto.</p>
+<h3 class="text-lg font-semibold text-[#eaf2fa]">Ingeniero de Sistemas</h3>
+<p class="font-mono-tech text-xs text-[#e8a33d] mb-2">Virtual Solution Cloud S.A.C. · SET 2024 - ENE 2025 · JORNADA PARCIAL</p>
+<p class="text-[#9db4cc] text-sm leading-relaxed">Dirección y supervisión de proyectos de cableado estructurado y enlaces de fibra óptica para 2 entidades del sector Defensa: planificación, ejecución, monitoreo y control.</p>
+</div>
+</div>
+</div>
+
+<div class="corner-mark bg-[#142a44] p-6">
+<div class="flex items-start gap-4">
+<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#4fd1c5" stroke-width="1.5" class="mt-1 shrink-0"><rect x="2" y="7" width="20" height="14" rx="2"/><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"/></svg>
+<div>
+<h3 class="text-lg font-semibold text-[#eaf2fa]">Consultor Digital y Desarrollador de Diversas Plataformas Digitales</h3>
+<p class="font-mono-tech text-xs text-[#e8a33d] mb-2">BCH - Business Control Hub · MAY 2024 - OCT 2024</p>
+<p class="text-[#9db4cc] text-sm leading-relaxed">Diseño e implementación en Quickbase de un módulo de gestión de compras y contrataciones integrado con SharePoint y Microsoft 365; participación en el desarrollo de APIs REST para integrar la plataforma con bases de datos externas.</p>
+</div>
+</div>
+</div>
+
+<div class="corner-mark bg-[#142a44] p-6">
+<div class="flex items-start gap-4">
+<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#4fd1c5" stroke-width="1.5" class="mt-1 shrink-0"><rect x="2" y="7" width="20" height="14" rx="2"/><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"/></svg>
+<div>
+<h3 class="text-lg font-semibold text-[#eaf2fa]">Especialista en Gestión y Desarrollo de Aplicaciones</h3>
+<p class="font-mono-tech text-xs text-[#e8a33d] mb-2">Municipalidad de La Victoria · ENE 2023 - MAR 2024</p>
+<p class="text-[#9db4cc] text-sm leading-relaxed">Gerencia de Gestión de Gobierno Digital: coordinación del desarrollo e implementación de mejoras en el Sistema Integral de Gestión Municipal (SIGMUN).</p>
+</div>
+</div>
+</div>
+
+<div class="corner-mark bg-[#142a44] p-6">
+<div class="flex items-start gap-4">
+<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#4fd1c5" stroke-width="1.5" class="mt-1 shrink-0"><rect x="2" y="7" width="20" height="14" rx="2"/><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"/></svg>
+<div>
+<h3 class="text-lg font-semibold text-[#eaf2fa]">Coordinador de Proyectos</h3>
+<p class="font-mono-tech text-xs text-[#e8a33d] mb-2">Helpdesk Consulting SAC · ENE 2022 - OCT 2022</p>
+<p class="text-[#9db4cc] text-sm leading-relaxed">Análisis de requerimientos y personalización de módulos del ERP HDSoft (Visual FoxPro 9 y SQL Server); participación en el desarrollo de APIs REST para integrar HDSoft con los servicios de SUNAT.</p>
+</div>
+</div>
+</div>
+
+<div class="corner-mark bg-[#142a44] p-6">
+<div class="flex items-start gap-4">
+<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#4fd1c5" stroke-width="1.5" class="mt-1 shrink-0"><rect x="2" y="7" width="20" height="14" rx="2"/><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"/></svg>
+<div>
+<h3 class="text-lg font-semibold text-[#eaf2fa]">Gerente de Sistemas</h3>
+<p class="font-mono-tech text-xs text-[#e8a33d] mb-2">VISON'S S.A.C. · SET 2015 - OCT 2017 · JUN 2019 - DIC 2021</p>
+<p class="text-[#9db4cc] text-sm leading-relaxed">Participé en la creación de la Gerencia de Sistemas e implementé el área de servidores; dirigí la evaluación, adquisición e implementación de OSIS ERP, aprobada por el Directorio. Lideré un equipo de 4 personas.</p>
+</div>
+</div>
+</div>
+
+<div class="corner-mark bg-[#142a44] p-6">
+<div class="flex items-start gap-4">
+<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#4fd1c5" stroke-width="1.5" class="mt-1 shrink-0"><rect x="2" y="7" width="20" height="14" rx="2"/><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"/></svg>
+<div>
+<h3 class="text-lg font-semibold text-[#eaf2fa]">Jefe de Proyectos</h3>
+<p class="font-mono-tech text-xs text-[#e8a33d] mb-2">Helpdesk Services S.A.C. · ABR 2015 - AGO 2016 · JORNADA PARCIAL</p>
+<p class="text-[#9db4cc] text-sm leading-relaxed">Dirección de la implementación del ERP HDSoft en diversos clientes, con un equipo multidisciplinario de 3 personas; planificación y control con Microsoft Project y gestión del cambio.</p>
+</div>
+</div>
+</div>
+
+<div class="corner-mark bg-[#142a44] p-6">
+<div class="flex items-start gap-4">
+<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#4fd1c5" stroke-width="1.5" class="mt-1 shrink-0"><rect x="2" y="7" width="20" height="14" rx="2"/><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"/></svg>
+<div>
+<h3 class="text-lg font-semibold text-[#eaf2fa]">Jefe de Sistemas</h3>
+<p class="font-mono-tech text-xs text-[#e8a33d] mb-2">Mixercon S.A. · ENE 2014 - MAR 2015</p>
+<p class="text-[#9db4cc] text-sm leading-relaxed">Dirigí un equipo de 8 personas y la implementación de OSIS ERP, validando el trabajo de la consultora implementadora, y del Sistema de Programación de la Producción y Despacho (SPPD).</p>
+</div>
+</div>
+</div>
+
+<div class="corner-mark bg-[#142a44] p-6">
+<div class="flex items-start gap-4">
+<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#4fd1c5" stroke-width="1.5" class="mt-1 shrink-0"><rect x="2" y="7" width="20" height="14" rx="2"/><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"/></svg>
+<div>
+<h3 class="text-lg font-semibold text-[#eaf2fa]">Trayectoria anterior</h3>
+<p class="font-mono-tech text-xs text-[#e8a33d] mb-2">2000 - 2013</p>
+<p class="text-[#9db4cc] text-sm leading-relaxed">Analista de Sistemas y Base de Datos en AtkinsRéalis (2011-2012) · Analista de Sistemas en Contimédica S.A. (2012-2013) · Software Developer en Nuclear Security Services Corporation, Willowbrook, Illinois, EE. UU. (2007-2010) · Analista Programador de Sistemas en Consorcio Naviero Peruano (2000-2001).</p>
 </div>
 </div>
 </div>
@@ -112,7 +200,7 @@ CONECTAR EN LINKEDIN
 </section>
 
 <section class="py-16 border-t border-[#2a4d6d]">
-<p class="eyebrow mb-2">// STACK TECNOLOGICO</p>
+<p class="eyebrow mb-2">// STACK TECNOLÓGICO</p>
 <h2 class="text-2xl font-bold text-[#eaf2fa] mb-10">Herramientas y lenguajes</h2>
 
 <div class="grid md:grid-cols-2 gap-8">
@@ -161,7 +249,7 @@ CONECTAR EN LINKEDIN
 <div>
 <div class="flex items-center gap-2 mb-3">
 <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#e8a33d" stroke-width="1.5"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/></svg>
-<h3 class="font-mono-tech text-sm text-[#eaf2fa]">METODOLOGIAS</h3>
+<h3 class="font-mono-tech text-sm text-[#eaf2fa]">METODOLOGÍAS</h3>
 </div>
 <div class="flex flex-wrap gap-2">
 <span class="pill-tech px-3 py-1">Scrum</span>
@@ -175,22 +263,22 @@ CONECTAR EN LINKEDIN
 </section>
 
 <section class="py-16 border-t border-[#2a4d6d]">
-<p class="eyebrow mb-2">// FORMACION ACADEMICA</p>
-<h2 class="text-2xl font-bold text-[#eaf2fa] mb-10">Educacion</h2>
+<p class="eyebrow mb-2">// FORMACIÓN ACADÉMICA</p>
+<h2 class="text-2xl font-bold text-[#eaf2fa] mb-10">Educación</h2>
 
 <div class="grid gap-5">
 <div class="corner-mark bg-[#142a44] p-6 flex items-start gap-4">
 <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#4fd1c5" stroke-width="1.5" class="mt-1 shrink-0"><path d="M22 10L12 5 2 10l10 5 10-5z"/><path d="M6 12v5c0 1 3 3 6 3s6-2 6-3v-5"/></svg>
 <div>
-<h3 class="text-lg font-semibold text-[#eaf2fa]">Ingeniero de Sistemas y Computo</h3>
-<p class="font-mono-tech text-xs text-[#e8a33d]">Universidad Inca Garcilaso de la Vega · TITULO MARZO 2024</p>
+<h3 class="text-lg font-semibold text-[#eaf2fa]">Ingeniero de Sistemas y Cómputo</h3>
+<p class="font-mono-tech text-xs text-[#e8a33d]">Universidad Inca Garcilaso de la Vega · TÍTULO MARZO 2024 · QUINTO SUPERIOR</p>
 </div>
 </div>
 <div class="corner-mark bg-[#142a44] p-6 flex items-start gap-4">
 <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#4fd1c5" stroke-width="1.5" class="mt-1 shrink-0"><path d="M22 10L12 5 2 10l10 5 10-5z"/><path d="M6 12v5c0 1 3 3 6 3s6-2 6-3v-5"/></svg>
 <div>
-<h3 class="text-lg font-semibold text-[#eaf2fa]">Maestria en Diseno y Gestion de Proyectos Tecnologicos</h3>
-<p class="font-mono-tech text-xs text-[#e8a33d]">UNIR · CULMINADA, GRADO EN TRAMITE</p>
+<h3 class="text-lg font-semibold text-[#eaf2fa]">Maestría en Diseño y Gestión de Proyectos Tecnológicos</h3>
+<p class="font-mono-tech text-xs text-[#e8a33d]">UNIR MÉXICO · CULMINADA CON PROMEDIO 9.57 · TITULACIÓN DIRECTA POR ALTO DESEMPEÑO · TÍTULO EN TRÁMITE</p>
 </div>
 </div>
 </div>
@@ -201,18 +289,22 @@ CONECTAR EN LINKEDIN
 <h2 class="text-2xl font-bold text-[#eaf2fa] mb-10">Certificaciones destacadas</h2>
 
 <div class="grid sm:grid-cols-2 md:grid-cols-3 gap-3">
-<div class="flex items-center gap-2 border border-[#2a4d6d] px-4 py-3"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#e8a33d" stroke-width="1.5" class="shrink-0"><circle cx="12" cy="8" r="6"/><path d="M8.5 13.5L6 22l6-3 6 3-2.5-8.5"/></svg><span class="text-sm text-[#9db4cc]">Google Data Analytics · 2026</span></div>
-<div class="flex items-center gap-2 border border-[#2a4d6d] px-4 py-3"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#e8a33d" stroke-width="1.5" class="shrink-0"><circle cx="12" cy="8" r="6"/><path d="M8.5 13.5L6 22l6-3 6 3-2.5-8.5"/></svg><span class="text-sm text-[#9db4cc]">Direccion de Proyectos, UNIR · 2026</span></div>
-<div class="flex items-center gap-2 border border-[#2a4d6d] px-4 py-3"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#e8a33d" stroke-width="1.5" class="shrink-0"><circle cx="12" cy="8" r="6"/><path d="M8.5 13.5L6 22l6-3 6 3-2.5-8.5"/></svg><span class="text-sm text-[#9db4cc]">Design Thinking y Scrum, UNIR · 2025</span></div>
-<div class="flex items-center gap-2 border border-[#2a4d6d] px-4 py-3"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#e8a33d" stroke-width="1.5" class="shrink-0"><circle cx="12" cy="8" r="6"/><path d="M8.5 13.5L6 22l6-3 6 3-2.5-8.5"/></svg><span class="text-sm text-[#9db4cc]">Soft Skills y Habilidades Directivas, UNIR · 2025</span></div>
-<div class="flex items-center gap-2 border border-[#2a4d6d] px-4 py-3"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#e8a33d" stroke-width="1.5" class="shrink-0"><circle cx="12" cy="8" r="6"/><path d="M8.5 13.5L6 22l6-3 6 3-2.5-8.5"/></svg><span class="text-sm text-[#9db4cc]">Ley General de Contrataciones (32069) · 2025</span></div>
-<div class="flex items-center gap-2 border border-[#2a4d6d] px-4 py-3"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#e8a33d" stroke-width="1.5" class="shrink-0"><circle cx="12" cy="8" r="6"/><path d="M8.5 13.5L6 22l6-3 6 3-2.5-8.5"/></svg><span class="text-sm text-[#9db4cc]">Modernizacion de la Gestion Publica · 2025</span></div>
-<div class="flex items-center gap-2 border border-[#2a4d6d] px-4 py-3"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#e8a33d" stroke-width="1.5" class="shrink-0"><circle cx="12" cy="8" r="6"/><path d="M8.5 13.5L6 22l6-3 6 3-2.5-8.5"/></svg><span class="text-sm text-[#9db4cc]">Sistemas de Gestion de Riesgos ISO 31000 · 2024</span></div>
-<div class="flex items-center gap-2 border border-[#2a4d6d] px-4 py-3"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#e8a33d" stroke-width="1.5" class="shrink-0"><circle cx="12" cy="8" r="6"/><path d="M8.5 13.5L6 22l6-3 6 3-2.5-8.5"/></svg><span class="text-sm text-[#9db4cc]">App Builder Certified, Quickbase · 2024</span></div>
-<div class="flex items-center gap-2 border border-[#2a4d6d] px-4 py-3"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#e8a33d" stroke-width="1.5" class="shrink-0"><circle cx="12" cy="8" r="6"/><path d="M8.5 13.5L6 22l6-3 6 3-2.5-8.5"/></svg><span class="text-sm text-[#9db4cc]">Programacion con Python, CETI · 2024</span></div>
-<div class="flex items-center gap-2 border border-[#2a4d6d] px-4 py-3"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#e8a33d" stroke-width="1.5" class="shrink-0"><circle cx="12" cy="8" r="6"/><path d="M8.5 13.5L6 22l6-3 6 3-2.5-8.5"/></svg><span class="text-sm text-[#9db4cc]">Scrum Fundamentals Certified · 2023</span></div>
-<div class="flex items-center gap-2 border border-[#2a4d6d] px-4 py-3"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#e8a33d" stroke-width="1.5" class="shrink-0"><circle cx="12" cy="8" r="6"/><path d="M8.5 13.5L6 22l6-3 6 3-2.5-8.5"/></svg><span class="text-sm text-[#9db4cc]">Diplomado en Ciberseguridad · 2023</span></div>
-<div class="flex items-center gap-2 border border-[#2a4d6d] px-4 py-3"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#e8a33d" stroke-width="1.5" class="shrink-0"><circle cx="12" cy="8" r="6"/><path d="M8.5 13.5L6 22l6-3 6 3-2.5-8.5"/></svg><span class="text-sm text-[#9db4cc]">PHP, Laravel y Postgres, CETI · 2023</span></div>
+<div class="flex items-center gap-2 border border-[#2a4d6d] px-4 py-3"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#e8a33d" stroke-width="1.5" class="shrink-0"><circle cx="12" cy="8" r="6"/><path d="M8.5 13.5L6 22l6-3 6 3-2.5-8.5"/></svg><span class="text-sm text-[#9db4cc]">Continuing Education Certificate in Digital Project Management, MIU City University Miami · 2026</span></div>
+<div class="flex items-center gap-2 border border-[#2a4d6d] px-4 py-3"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#e8a33d" stroke-width="1.5" class="shrink-0"><circle cx="12" cy="8" r="6"/><path d="M8.5 13.5L6 22l6-3 6 3-2.5-8.5"/></svg><span class="text-sm text-[#9db4cc]">Diploma en Dirección de Proyectos, UNIR · 2026</span></div>
+<div class="flex items-center gap-2 border border-[#2a4d6d] px-4 py-3"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#e8a33d" stroke-width="1.5" class="shrink-0"><circle cx="12" cy="8" r="6"/><path d="M8.5 13.5L6 22l6-3 6 3-2.5-8.5"/></svg><span class="text-sm text-[#9db4cc]">Diplomado en Ley General de Contrataciones Públicas (Ley N.° 32069), INEG · 2025</span></div>
+<div class="flex items-center gap-2 border border-[#2a4d6d] px-4 py-3"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#e8a33d" stroke-width="1.5" class="shrink-0"><circle cx="12" cy="8" r="6"/><path d="M8.5 13.5L6 22l6-3 6 3-2.5-8.5"/></svg><span class="text-sm text-[#9db4cc]">Diplomado en Gestión Pública, INEG · 2024</span></div>
+<div class="flex items-center gap-2 border border-[#2a4d6d] px-4 py-3"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#e8a33d" stroke-width="1.5" class="shrink-0"><circle cx="12" cy="8" r="6"/><path d="M8.5 13.5L6 22l6-3 6 3-2.5-8.5"/></svg><span class="text-sm text-[#9db4cc]">Diploma en Auditoría, Evaluación y Legislación de Proyectos Tecnológicos, UNIR · 2026</span></div>
+<div class="flex items-center gap-2 border border-[#2a4d6d] px-4 py-3"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#e8a33d" stroke-width="1.5" class="shrink-0"><circle cx="12" cy="8" r="6"/><path d="M8.5 13.5L6 22l6-3 6 3-2.5-8.5"/></svg><span class="text-sm text-[#9db4cc]">Diploma en Innovación Tecnológica, UNIR · 2025</span></div>
+<div class="flex items-center gap-2 border border-[#2a4d6d] px-4 py-3"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#e8a33d" stroke-width="1.5" class="shrink-0"><circle cx="12" cy="8" r="6"/><path d="M8.5 13.5L6 22l6-3 6 3-2.5-8.5"/></svg><span class="text-sm text-[#9db4cc]">Diplomado en Soft Skills y Habilidades Directivas, UNIR · 2025</span></div>
+<div class="flex items-center gap-2 border border-[#2a4d6d] px-4 py-3"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#e8a33d" stroke-width="1.5" class="shrink-0"><circle cx="12" cy="8" r="6"/><path d="M8.5 13.5L6 22l6-3 6 3-2.5-8.5"/></svg><span class="text-sm text-[#9db4cc]">Gestión de Proyectos Ágiles: Design Thinking y Scrum, UNIR · 2025</span></div>
+<div class="flex items-center gap-2 border border-[#2a4d6d] px-4 py-3"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#e8a33d" stroke-width="1.5" class="shrink-0"><circle cx="12" cy="8" r="6"/><path d="M8.5 13.5L6 22l6-3 6 3-2.5-8.5"/></svg><span class="text-sm text-[#9db4cc]">Six Sigma Yellow Belt (SSYB) · 2025</span></div>
+<div class="flex items-center gap-2 border border-[#2a4d6d] px-4 py-3"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#e8a33d" stroke-width="1.5" class="shrink-0"><circle cx="12" cy="8" r="6"/><path d="M8.5 13.5L6 22l6-3 6 3-2.5-8.5"/></svg><span class="text-sm text-[#9db4cc]">Scrum for Operations &amp; DevOps Fundamentals Certified · 2025</span></div>
+<div class="flex items-center gap-2 border border-[#2a4d6d] px-4 py-3"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#e8a33d" stroke-width="1.5" class="shrink-0"><circle cx="12" cy="8" r="6"/><path d="M8.5 13.5L6 22l6-3 6 3-2.5-8.5"/></svg><span class="text-sm text-[#9db4cc]">Sistemas de Gestión de Riesgos ISO 31000, Netcram / CIP · 2024</span></div>
+<div class="flex items-center gap-2 border border-[#2a4d6d] px-4 py-3"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#e8a33d" stroke-width="1.5" class="shrink-0"><circle cx="12" cy="8" r="6"/><path d="M8.5 13.5L6 22l6-3 6 3-2.5-8.5"/></svg><span class="text-sm text-[#9db4cc]">Gestión del Riesgo de Desastres, Netcram / CIP · 2024</span></div>
+<div class="flex items-center gap-2 border border-[#2a4d6d] px-4 py-3"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#e8a33d" stroke-width="1.5" class="shrink-0"><circle cx="12" cy="8" r="6"/><path d="M8.5 13.5L6 22l6-3 6 3-2.5-8.5"/></svg><span class="text-sm text-[#9db4cc]">Colegiatura CIP N.° 344629 · 2024</span></div>
+<div class="flex items-center gap-2 border border-[#2a4d6d] px-4 py-3"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#e8a33d" stroke-width="1.5" class="shrink-0"><circle cx="12" cy="8" r="6"/><path d="M8.5 13.5L6 22l6-3 6 3-2.5-8.5"/></svg><span class="text-sm text-[#9db4cc]">Diplomado en Administración y Desarrollo de Base de Datos con SQL Server 2022, CETI · 2024</span></div>
+<div class="flex items-center gap-2 border border-[#2a4d6d] px-4 py-3"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#e8a33d" stroke-width="1.5" class="shrink-0"><circle cx="12" cy="8" r="6"/><path d="M8.5 13.5L6 22l6-3 6 3-2.5-8.5"/></svg><span class="text-sm text-[#9db4cc]">App Builder Certification, Quickbase · 2024</span></div>
+<div class="flex items-center gap-2 border border-[#2a4d6d] px-4 py-3"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#e8a33d" stroke-width="1.5" class="shrink-0"><circle cx="12" cy="8" r="6"/><path d="M8.5 13.5L6 22l6-3 6 3-2.5-8.5"/></svg><span class="text-sm text-[#9db4cc]">Scrum Fundamentals Certified (SFC) · 2023</span></div>
 </div>
 </section>
 
@@ -220,7 +312,7 @@ CONECTAR EN LINKEDIN
 <div class="corner-mark bg-[#142a44] p-10 text-center max-w-xl mx-auto">
 <p class="eyebrow mb-2">// CONTACTO</p>
 <h2 class="text-2xl font-bold text-[#eaf2fa] mb-4">Conversemos</h2>
-<p class="text-[#9db4cc] mb-8">Disponible para consultorias, arquitectura de soluciones y proyectos de gestion TI.</p>
+<p class="text-[#9db4cc] mb-8">Abierto a posiciones de Jefe de Proyectos TI y Jefe de Sistemas, en Lima o en remoto.</p>
 <a href="https://www.linkedin.com/in/nelio-sotomayor" class="inline-flex items-center gap-2 bg-[#e8a33d] text-[#0e1f33] font-semibold px-8 py-3 font-mono-tech text-sm hover:bg-[#4fd1c5] transition-colors">
 CONECTAR EN LINKEDIN
 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17L17 7M17 7H7M17 7V17"/></svg>
